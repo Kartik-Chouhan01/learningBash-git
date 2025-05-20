@@ -1,0 +1,4 @@
+English: 78
+Hindi: 35
+Maths: 89
+SSC: 70
